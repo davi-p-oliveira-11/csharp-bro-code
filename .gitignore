@@ -1,0 +1,8 @@
+# ignore csproj files
+
+*.csproj
+
+# unecessary folders
+
+*/bin
+*/obj
